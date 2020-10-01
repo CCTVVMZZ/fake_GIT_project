@@ -1,1 +1,1 @@
-Original content of fic3.txt
+First modification of fic3.txt on branch master
