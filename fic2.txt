@@ -1,1 +1,1 @@
-Original content of fic2.txt
+First modification of fic2.txt on test_branch
